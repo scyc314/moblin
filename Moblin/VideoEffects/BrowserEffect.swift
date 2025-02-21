@@ -1,6 +1,8 @@
 import Foundation
 import WebKit
 import SwiftUI
+import Metal
+import MetalKit
 
 class BrowserEffect: VideoEffect {
     private var webView: WKWebView?
